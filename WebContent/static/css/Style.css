@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.container .center {
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 25%;
+	margin-left: -50px;
+	top: 25%;
+	margin-top: -50px;
+}
+.glyphicon .glyphicon-facetime-video{
+	width: 50px;
+	height: 50px;
+	size:30;
+}
